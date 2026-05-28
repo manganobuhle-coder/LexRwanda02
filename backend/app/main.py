@@ -17,6 +17,7 @@ app.add_middleware(
         "http://localhost:3000",
         "https://lexrwanda.vercel.app",
         "https://lexrwanda-api.onrender.com",
+        "https://lexrwanda.onrender.com",
     ],
     allow_credentials=True,
     allow_methods=["*"],
